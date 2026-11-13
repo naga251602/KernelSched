@@ -1,0 +1,7 @@
+build/
+results/
+*.o
+*.skel.h
+vmlinux.h
+__pycache__/
+*.pyc
